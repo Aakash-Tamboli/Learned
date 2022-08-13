@@ -1,0 +1,6 @@
+***************************CPP******************************
+**** During development of HTTP SERVER****
+1) if in the file consist of \n or \r and we try to read using fgetc or getc
+Whenever fgetc or getc encountered the \n or \r it will be ignored because
+its behaviour of this function. So always use rb mode if you want to read \n
+or \r using this function your problem is solved
