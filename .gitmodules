@@ -1,3 +1,6 @@
 [submodule "Cpp-Projects"]
 	path = Cpp-Projects
 	url = https://github.com/Aakash-Tamboli/Cpp-Projects.git
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/Aakash-Tamboli/javascript.git
